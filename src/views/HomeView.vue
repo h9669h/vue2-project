@@ -3,8 +3,6 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt to Your Vue.js App TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTtTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTtTTTTTTTTTTTTTt"/>
     <HelloWorld msg="Welcome  滴滴答答滴滴答答滴滴答答滴滴答答滴滴答答 to Your Vue.js App uuuuuuuuuuuuuuuuuuuuuuuuu"/>
-
-
   </div>
 </template>
 
