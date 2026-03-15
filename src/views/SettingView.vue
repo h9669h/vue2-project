@@ -1,10 +1,18 @@
 <template>
-  <h1>设置页</h1>
+  <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  </div>
 </template>
 
-<style scoped lang="scss">
+<script>
+// @ is an alias to /src
+import HelloWorld from '@/components/HelloWorld.vue'
 
-</style>
-<script setup>
+export default {
+  name: 'HomeView',
+  components: {
+    HelloWorld
+  }
+}
 </script>
-<script></script>
